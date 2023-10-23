@@ -1,3 +1,4 @@
+.
 # eCommerce MVC Project README
 
 Welcome to the eCommerce MVC project! This project is a simple example of a web application built using the Model-View-Controller (MVC) architecture. In this project, we've implemented a basic e-commerce system for managing products and categories. This README will provide an overview of the project structure and how to get started.
